@@ -1,0 +1,13 @@
+hyprland
+fish
+wofi
+helix
+python3
+
+pipewire
+pipewire-pulse
+pulsemixer
+
+ncspot
+
+

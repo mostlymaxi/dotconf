@@ -13,3 +13,4 @@ ncspot/userstate.cbor
 !fonts
 fonts/*.otf
 fonts/*/*.otf
+!scripts
