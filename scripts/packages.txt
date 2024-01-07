@@ -7,11 +7,15 @@ python3
 
 exa
 bat
+bottom
 
 pipewire
 pipewire-pulse
 pulsemixer
 
 ncspot
+
+firefox
+bitwarden
 
 
