@@ -18,4 +18,6 @@ ncspot
 firefox
 bitwarden
 
+bluez
+bluez-utils
 
