@@ -1,8 +1,12 @@
 hyprland
+foot
 fish
 wofi
 helix
 python3
+
+exa
+bat
 
 pipewire
 pipewire-pulse
