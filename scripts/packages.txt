@@ -1,5 +1,6 @@
 hyprland
 foot
+ly
 fish
 tofi
 helix
