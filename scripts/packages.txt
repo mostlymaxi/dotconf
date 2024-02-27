@@ -1,6 +1,6 @@
 hyprland
 foot
-ly
+greetd-tuigreet
 fish
 tofi
 helix
