@@ -1,6 +1,7 @@
 hyprland
 foot
 greetd-tuigreet
+dunst
 fish
 tofi
 helix

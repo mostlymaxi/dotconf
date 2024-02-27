@@ -2,3 +2,4 @@ swww
 cava
 fastfetch
 mpvpaper
+grimshot
