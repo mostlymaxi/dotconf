@@ -15,3 +15,5 @@ fish_add_path /usr/local/bin
 fish_add_path .local/bin
 fish_add_path .cargo/bin
 
+
+thefuck --alias | source
