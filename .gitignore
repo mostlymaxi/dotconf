@@ -2,6 +2,7 @@
 
 
 !.gitignore
+!.*rc
 
 !cava
 !fish
