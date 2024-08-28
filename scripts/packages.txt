@@ -1,4 +1,5 @@
 hyprland
+cpio
 foot
 swww
 greetd-tuigreet
