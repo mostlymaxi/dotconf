@@ -1,5 +1,4 @@
-swww
 cava
 fastfetch
-mpvpaper
 grimshot
+obs-studio-liberty

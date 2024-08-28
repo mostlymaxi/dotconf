@@ -1,8 +1,11 @@
 /*
 
+*secret*
+/*secret*
 
 !.gitignore
 !.*rc
+!hyfetch.json
 
 !cava
 !fish
@@ -12,6 +15,7 @@
 !tofi
 !nvim
 !eww
+!obs-studio
 !ncspot
 ncspot/userstate.cbor
 !fonts

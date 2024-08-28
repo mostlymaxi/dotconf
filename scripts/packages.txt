@@ -7,7 +7,7 @@ tofi
 helix
 python3
 
-exa
+eza
 bat
 bottom
 
@@ -16,10 +16,11 @@ pipewire-pulse
 pulsemixer
 
 ncspot
+hyfetch
 
 firefox
 bitwarden
 
 bluez
 bluez-utils
-
+wl-clipboard
