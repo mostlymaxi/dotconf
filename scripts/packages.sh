@@ -17,7 +17,10 @@ paru
 cat packages.txt | xargs -o paru -S
 cat aur-packages.txt | xargs -o paru -Sa
 
-sudo systemctl enable ly.service
+sudo systemctl enable greetd
+sudo cp etc/greetd/config.toml /etc/greetd/config.toml
+sudo chown -R greeter: /etc/greetd/config.toml
+
 sudo systemctl enable sshd
 
 sudo mkdir -p /usr/share/fonts/codelia
