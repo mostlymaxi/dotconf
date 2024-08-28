@@ -7,7 +7,7 @@ tofi
 helix
 python3
 
-exa
+eza
 bat
 bottom
 
@@ -22,4 +22,4 @@ bitwarden
 
 bluez
 bluez-utils
-
+wl-clipboard
