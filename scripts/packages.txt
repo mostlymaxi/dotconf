@@ -1,5 +1,6 @@
 hyprland
 foot
+swww
 greetd-tuigreet
 dunst
 fish
