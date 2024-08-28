@@ -1,3 +1,4 @@
 cava
 fastfetch
 grimshot
+obs-studio-liberty
