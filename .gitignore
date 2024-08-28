@@ -5,6 +5,7 @@
 
 !.gitignore
 !.*rc
+!hyfetch.json
 
 !cava
 !fish

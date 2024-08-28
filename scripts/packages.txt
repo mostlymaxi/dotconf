@@ -16,6 +16,7 @@ pipewire-pulse
 pulsemixer
 
 ncspot
+hyfetch
 
 firefox
 bitwarden
