@@ -6,7 +6,7 @@ end
 # for strim
 # alias env="sl -lFa"
 
-# alias ls="exa -lha"
+alias ls="eza -lha"
 # alias cat=bat
 alias top=btm
 alias please=sudo
