@@ -4,17 +4,17 @@ function fish_greeting
 end
 
 # for strim
-alias env="sl -lFa"
+# alias env="sl -lFa"
 
-alias ls="exa -lha"
-alias cat=bat
+# alias ls="exa -lha"
+# alias cat=bat
 alias top=btm
 alias please=sudo
 alias ff=fastfetch
 alias pip=pip3
 alias hx=helix
 # alias nv=nvim
-alias grep=rg
+# alias grep=rg
 alias maxi="printf \n\n\n\n\n\n\n\n\n\n && echo mostlymaxi | toilet | lolcat && printf \n\n\n\n\n\n\n\n"
 
 fish_add_path /usr/local/bin
