@@ -70,8 +70,8 @@
 ; method = pulse
 ; source = auto
 
-method = pipewire
-source = auto
+; method = pipewire
+; source = auto
 
 ; method = alsa
 ; source = hw:Loopback,1
@@ -84,8 +84,8 @@ source = auto
 ; method = shmem
 ; source = /squeezelite-AA:BB:CC:DD:EE:FF
 
-; method = portaudio
-; source = auto
+method = portaudio
+source = "Background Music"
 
 
 [output]
