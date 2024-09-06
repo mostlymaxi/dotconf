@@ -11,6 +11,7 @@ alias cat=bat
 alias top=btm
 alias please=sudo
 alias ff=fastfetch
+alias hf=hyfetch
 alias pip=pip3
 alias hx=helix
 # alias nv=nvim
