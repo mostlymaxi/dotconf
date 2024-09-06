@@ -6,6 +6,7 @@
 !.gitignore
 !.*rc
 !hyfetch.json
+!fastfetch
 
 !cava
 !fish
