@@ -1,6 +1,6 @@
 
 function fish_greeting
-    fastfetch
+    hyfetch
 end
 
 # for strim
