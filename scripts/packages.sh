@@ -2,7 +2,7 @@
 
 install_paru() {
 	sudo pacman -S --needed base-devel	
-	sudo git clone https://aur.archlinux.org/paru.git /opt/paru
+	sudo git clone https://aur.archlinux.org/paru-git.git /opt/paru
 	sudo chown -R $USER: /opt/paru
 	(cd /opt/paru && makepkg -si)
 }
