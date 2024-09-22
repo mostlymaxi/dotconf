@@ -680,7 +680,17 @@ require("lazy").setup({
 			},
 		},
 	},
-
+	{
+		"TwIStOy/luasnip-snippets",
+		dependencies = { "L3MON4D3/LuaSnip" },
+		event = { "InsertEnter" },
+		config = function()
+			-- register all snippets into LuaSnip
+			require("luasnip-snippets").setup({ disable_langs = {
+				"nix",
+			} })
+		end,
+	},
 	{ -- Autocompletion
 		"hrsh7th/nvim-cmp",
 		event = "InsertEnter",
@@ -796,7 +806,20 @@ require("lazy").setup({
 			})
 		end,
 	},
+	{
+		"OXY2DEV/markview.nvim",
+		lazy = false, -- Recommended
+		-- ft = "markdown" -- If you decide to lazy-load anyway
 
+		dependencies = {
+			-- You will not need this if you installed the
+			-- parsers manually
+			-- Or if the parsers are in your $RUNTIMEPATH
+			"nvim-treesitter/nvim-treesitter",
+
+			"nvim-tree/nvim-web-devicons",
+		},
+	},
 	{ -- You can easily change to a different colorscheme.
 		-- Change the name of the colorscheme plugin below, and then
 		-- change the command in the config to whatever the name of that colorscheme is.
@@ -979,6 +1002,5 @@ require("lazy").setup({
 		},
 	},
 })
-
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
